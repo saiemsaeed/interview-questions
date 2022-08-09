@@ -97,3 +97,5 @@
 - Describe a time when you made a mistake. How did you deal with the repercussions of the mistake? What lessons did you learn from the mistake?
 - Describe a challenging project that you worked on. Why was it challenging? What was your role in the project? How did you deal with the various difficulties of the project?
 - Describe a time when you went out of your comfort zone. Why did you do it? What lessons did you learn from the experience?
+- Which previous project you are most proud of?
+
