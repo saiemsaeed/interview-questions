@@ -19,9 +19,19 @@
 
 ### Javascript
 - Closures (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
-- What are Promises? Please explain in a way that you’re explaining it to child.
+- What are Promises? What's the benefit of using Promises? Please explain in a way that you’re explaining it to child.
 - Hoisting (https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
 - Events in Javascript. How Event Delegation and Event Bubbling works? (https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+- Difference between Array.forEach and Array.map function?
+- What is Set in Javascript? What the usecase of Set?
+- Does array destructuring gives shallow copy or deep copy variables?
+- How to make a copy of an array or object? 
+    - Using Spread Operators
+- What are different primitve data types in Javascript?
+- What are different Scopes in Javascript? (https://dmitripavlutin.com/javascript-scope/)
+- What's the difference between var, let and const?
+- Difference between double (==) and triple equals (===)? Which one is faster and why?
+
 
 ### React
 - What’s your favourite feature in React?
