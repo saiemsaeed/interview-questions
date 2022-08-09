@@ -16,6 +16,9 @@
     - [https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/](https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/)
     - [https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/#section:dns-prefetching](https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/#section:dns-prefetching)
     - [https://css-tricks.com/prefetching-preloading-prebrowsing/](https://css-tricks.com/prefetching-preloading-prebrowsing/)
+- What is difference between `PUT` and `PATCH` HTTP request?
+- Local Storage vs Session Storage?
+- What are browser cookies? Are they secure enough to keep authntication information in them? How HttpOnly Cookie different from nomral cookie?
 
 ### Javascript
 - Closures (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
