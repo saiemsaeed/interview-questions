@@ -31,6 +31,10 @@
 - What are different Scopes in Javascript? (https://dmitripavlutin.com/javascript-scope/)
 - What's the difference between var, let and const?
 - Difference between double (==) and triple equals (===)? Which one is faster and why?
+- What do you know about Prototypal Inheritance? Is it different from Class based inheritance?
+- How can we run promises sequentially?
+- What's the difference between `||` and `??`?
+- What is Symbol primitive type? What is the benefit of using it?
 
 
 ### React
@@ -81,3 +85,12 @@
 
 ### Behavioural
 - What if you deploy a service and in the middle of night, it breaks? What are you going to do? How you trigger company wide alerts?
+- Imagine you had a low performer on your team. How would you handle the situation? What would you do to help them?
+- Describe a time when there was a conflict within your team. How did you help resolve the conflict? Did you do anything to prevent it in the future?
+- Why do you want to work at <company-name>?
+- Describe a time when you strongly disagreed with a coworker about an engineering decision. How did you go about making the final decision? What did you do after the decision was made?
+- Imagine you and your team are in the middle of a major project at work, with many moving parts, complicated context, a lot of work, etc.. A new software engineer joins your team, and you're tasked with onboarding them; what do you do?
+- How would you go about distributing work for a project across a team of software engineers? If you've led a project in the past, describe what you did.
+- Describe a time when you made a mistake. How did you deal with the repercussions of the mistake? What lessons did you learn from the mistake?
+- Describe a challenging project that you worked on. Why was it challenging? What was your role in the project? How did you deal with the various difficulties of the project?
+- Describe a time when you went out of your comfort zone. Why did you do it? What lessons did you learn from the experience?
